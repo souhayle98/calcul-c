@@ -1,0 +1,4 @@
+#ignorer les fichiers executables 
+*.exe
+#ignorer les fichiers objets
+*.obj
